@@ -30,3 +30,5 @@ Thumbs.db
 .class
 .cache-main
 bin/
+
+.worksheet

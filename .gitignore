@@ -51,3 +51,5 @@ project/plugins/project/
 .class
 .cache-main
 bin/
+
+.worksheet
